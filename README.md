@@ -29,4 +29,4 @@ References
 -----------
 
 - Kevin P. Murphy, "Inference in HMMs," *Machine Learning: a Probabilistic Perspective* pp. 606-617, 2013 ([link](https://www.cs.ubc.ca/~murphyk/MLbook/))
-- Larry Moss, Example of the Baum-Welch Algorithm ([link](chrome-extension://ecnphlgnajanjnkcmbpancdjoidceilk/http://www.indiana.edu/~iulg/moss/hmmcalculations.pdf))
+- Larry Moss, Example of the Baum-Welch Algorithm ([link](http://www.indiana.edu/~iulg/moss/hmmcalculations.pdf))
