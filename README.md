@@ -15,6 +15,7 @@ Each file is associated with a test file. To run the tests, one can use the pack
 py.test
 
 Apart from that, here are the role of the different files:
+
 1. *main*: runs a simulation and tries to fit a HMM.
 2. *tests_common*: some useful commands used by the test files.
 3. *tools*: useful functions used by different files.
